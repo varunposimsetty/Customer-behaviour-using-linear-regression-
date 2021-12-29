@@ -25,7 +25,8 @@ Any Linear Regression consists of two variables a) dependent variable b) indepen
 Y = X1 + X2 + X3\
 where, Y == Dependent variable\
        X1,X2,X3 == Independent variable\
-Linear regression can be seen as a line in X and Y coordinates which can be used to define the relationship between the dependent variable(y) and independent variables(x)
+Linear regression can be seen as a line in X and Y coordinates which can be used to define the relationship between the dependent variable(y) and independent variables(x)\
+
 y = mx + b\
 
 y = a0 + a1x1 + a2x2 + ...... anxn\
