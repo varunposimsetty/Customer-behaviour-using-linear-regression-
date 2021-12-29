@@ -28,7 +28,7 @@ where, Y == Dependent variable\
 Linear regression can be seen as a line in X and Y coordinates which can be used to define the relationship between the dependent variable(y) and independent variables(x)\
 y = mx + b
 
-y = a0 + a1x1 + a2x2 + ...... anxn
+y = a0 + a1x1 + a2x2 + ...... anxn\
 -y is the predicted value\
 -n is the number of features\
 -xi is the ith feature value
